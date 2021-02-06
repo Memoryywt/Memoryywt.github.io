@@ -26,9 +26,9 @@ MarkDown是一种超文本语言，今天我第一次学习了它。
 
 
 > git add -A 添加要上传的文件（或者使用 git add .）
-git commit -m "添加修改后的备注"
-注意：以上两步可以合并为：
+> git commit -m "添加修改后的备注"
+> 注意：以上两步可以合并为：
 git commit -am "添加修改后的备注"
-git push origin main(第一次提交需要输这个)
-git push(以后在提交就用这个)
-git push origin b(提交到b分支)
+> git push origin main(第一次提交需要输这个)
+> git push(以后在提交就用这个)
+> git push origin b(提交到b分支)
